@@ -30,6 +30,6 @@ npm run start
 \*pastikan udah install node js
 
 SOSMED :
-github : [WhaleHOY](https://github.com/WhaleHOY)
-twitter : @WhaleHOY
-discord : @WhaleHOY
+Github : [WhaleHOY](https://github.com/WhaleHOY)
+Twitter : @WhaleHOY
+Discord : @WhaleHOY
